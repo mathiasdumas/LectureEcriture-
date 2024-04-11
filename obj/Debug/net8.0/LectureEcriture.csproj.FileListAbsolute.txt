@@ -1,0 +1,14 @@
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/bin/Debug/net8.0/LectureEcriture
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/bin/Debug/net8.0/LectureEcriture.deps.json
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/bin/Debug/net8.0/LectureEcriture.runtimeconfig.json
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/bin/Debug/net8.0/LectureEcriture.dll
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/bin/Debug/net8.0/LectureEcriture.pdb
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/obj/Debug/net8.0/LectureEcriture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/obj/Debug/net8.0/LectureEcriture.AssemblyInfoInputs.cache
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/obj/Debug/net8.0/LectureEcriture.AssemblyInfo.cs
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/obj/Debug/net8.0/LectureEcriture.csproj.CoreCompileInputs.cache
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/obj/Debug/net8.0/LectureEcriture.dll
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/obj/Debug/net8.0/refint/LectureEcriture.dll
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/obj/Debug/net8.0/LectureEcriture.pdb
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/obj/Debug/net8.0/LectureEcriture.genruntimeconfig.cache
+/Users/barbara/Projects/LectureEcriture/LectureEcriture/obj/Debug/net8.0/ref/LectureEcriture.dll
